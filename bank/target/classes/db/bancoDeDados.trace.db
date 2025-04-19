@@ -1,0 +1,6 @@
+2025-04-10 21:22:46.795302-03:00 jdbc[33]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "HTE_DEPARTMENTS" already exists; SQL statement:
+create global temporary table HTE_departments(active boolean, rn_ integer not null, id bigint, description varchar(255), title varchar(255), primary key (rn_)) TRANSACTIONAL [42101-232]
+2025-04-10 21:22:49.255301-03:00 jdbc[43]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "HTE_DEPARTMENTS" already exists; SQL statement:
+create global temporary table HTE_departments(active boolean, rn_ integer not null, id bigint, description varchar(255), title varchar(255), primary key (rn_)) TRANSACTIONAL [42101-232]
