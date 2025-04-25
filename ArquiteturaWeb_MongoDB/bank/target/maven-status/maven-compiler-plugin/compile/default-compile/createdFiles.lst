@@ -1,0 +1,9 @@
+com\banco\repository\DepartmentJpaRepository.class
+com\banco\Service\DepartmentServiceMongo.class
+com\banco\bank\BankApplication.class
+com\banco\Controller\DepartmentJpaController.class
+com\banco\Controller\DepartmentMongoController.class
+com\banco\repository\DepartmentMongoRepository.class
+com\banco\model\DepartmentJPA.class
+com\banco\model\DepartmentMongo.class
+com\banco\Service\DepartmentServiceJpa.class
